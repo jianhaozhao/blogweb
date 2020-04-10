@@ -7,6 +7,7 @@ def qwe2():
     print("你好2...")
 
 qwe()
+qwe2()
 
 
 
