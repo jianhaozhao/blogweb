@@ -10,4 +10,7 @@ qwe()
 qwe2()
 
 
+def asd():
+
+    print("你好")
 
